@@ -36,8 +36,12 @@ TO CHECK THE TRANSACTION HISTORY OF THE TOKEN GO TO https://goerli.etherscan.io/
 
 Info:
 My Token Name : chhillar17 (kc)
+
 My Token address :0x4bB7d9dA727097c659D93bC162868B74429bd7c9
+
 My Metamask wallet address: 0xa1c522B4e35011EAC712BAFe1C1a397DC3dC4fB3
+
 GoerliETH testnet currency : 0.1635GoerliETH
+
 SepoliaETH testnet currency :0.5345SepoliaETH
 
